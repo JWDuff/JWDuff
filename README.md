@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @JWDuff
+- 🌱 I’m currently learning Python and Machine Learning and absorbing the Data world.
